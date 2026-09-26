@@ -6,7 +6,7 @@
 #define LED_DIR   "/sys/class/gpio/PC23/direction"
 #define LED_VALUE "/sys/class/gpio/PC23/value"
 #define GPIO_EXPORT "/sys/class/gpio/PC23/export"
-#define GPIO_NUM 87
+#define GPIO_NUM 89
 
 int main()
 {
